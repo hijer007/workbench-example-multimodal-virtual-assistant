@@ -2,13 +2,3 @@ http://localhost:8000
 Running on local URL:  http://0.0.0.0:8080
 
 To create a public link, set `share=True` in `launch()`.
----ROUTE QUESTION---
-hi
-{'datasource': 'web_search'}
----ROUTE QUESTION TO WEB SEARCH---
----WEB SEARCH---
----GENERATE---
----CHECK HALLUCINATIONS---
----DECISION: GENERATION IS GROUNDED IN DOCUMENTS---
----GRADE GENERATION vs QUESTION---
----DECISION: GENERATION ADDRESSES QUESTION---
